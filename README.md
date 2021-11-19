@@ -1,1 +1,1 @@
-# machine-learning-capstone-project
+This repo is dedicated to machine learning projects.
