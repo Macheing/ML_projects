@@ -1,10 +1,16 @@
-This repo is dedicated to machine learning projects.
+The main theme of this repo is for predictive analytics and machine learning models. It also encompassed the notion of data analytics, data visualizations, and descriptive statistics. The content of this repo emphasize learning purpose only and implies in context to IBM Data Science Professional Certification.
 
-males vs females loan findings:
+The ML_Captstone_Project.ipynb notebook applied predictive analytics and classification models to predict whether customer is likely to pay off the loan or not.
+
+Loan status findings by gender and principal:
 
 ![image](https://user-images.githubusercontent.com/42636064/142638347-250ddb04-b257-40bc-8426-572c5958cc8a.png)
 
+Loan status findings by gender and age:
+
 ![image](https://user-images.githubusercontent.com/42636064/142638942-a1c68a2f-c821-43ec-8407-3bd2483f890f.png)
+
+Loan status findings by gender and days of week:
 
 ![image](https://user-images.githubusercontent.com/42636064/142639228-b808dc52-5fdc-4eb7-a8c2-0ec13ec91c75.png)
 
